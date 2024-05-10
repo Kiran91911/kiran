@@ -1,0 +1,32 @@
+body{
+    margin: 0px;
+    padding: 30px;
+}
+.navbar-image {
+    width: 40px;
+    height: 40px;
+    padding: 5px;
+  }
+  
+input{
+    border: none;
+    outline: none;
+    background-color: transparent;
+    color: white;
+    margin-left: 20px;
+    
+}
+.enter_amount{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-left:20px ;
+    align-items: center ;
+    border: solid;
+    background-color: rgba(144, 129, 129, 0.547);
+    color: white;
+    font-family: sans-serif;
+    padding: 10px;
+    width: 25%;
+    border-radius: 10px;
+}

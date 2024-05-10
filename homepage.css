@@ -1,0 +1,36 @@
+
+.navbar-image {
+  width: 40px;
+  height: 40px;
+  padding: 5px;
+}
+
+.explore-menu-section {
+  background-color: white;
+}
+.stock-section-heading {
+  color: #183b56;
+  font-family: "Roboto";
+  font-size: 28px;
+  font-weight: 700;
+}
+.stock-item-image {
+  border-radius: 16px;
+}
+.stock-card-title {
+  color: #323f4b;
+  font-family: "Roboto";
+  font-size: 18px;
+  font-weight: 500;
+  margin-top: 24px;
+}
+
+.stock-item-link {
+  color: #d0b200;
+  font-family: "Roboto";
+  font-size: 14px;
+  font-weight: 500;
+}
+.stock-item-card {
+  border-radius: 16px;
+}
